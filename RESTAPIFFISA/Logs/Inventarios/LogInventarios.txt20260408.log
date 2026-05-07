@@ -1,0 +1,60 @@
+﻿2026-04-08 13:52:04,682 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:52:04,693 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-04-08 13:52:04,693 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:52:04,693 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento base para recuento de inventarios.
+2026-04-08 13:52:04,740 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: GILBERTO CABRERA/GCR | Folio: [{"Folio":"RI-003"}]
+2026-04-08 13:55:21,957 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:21,957 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-08 13:55:21,957 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:21,957 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-003
+2026-04-08 13:55:22,009 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-003
+2026-04-08 13:55:37,331 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:37,331 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-08 13:55:37,331 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:37,331 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-003
+2026-04-08 13:55:37,377 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-003
+2026-04-08 13:55:57,371 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:57,371 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-08 13:55:57,371 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:57,371 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 13:55:58,274 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-08 13:55:58,293 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:58,293 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-08 13:55:58,293 INFO  InventariosMovil - =======================================================================================
+2026-04-08 13:55:58,293 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:01:00,856 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:01:00,872 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-08 14:01:00,872 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:01:00,872 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:01:01,726 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-08 14:01:01,743 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:01:01,743 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-08 14:01:01,743 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:01:01,743 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:16:20,127 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:16:20,175 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-08 14:16:20,175 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:16:20,176 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:16:21,355 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-08 14:16:21,389 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:16:21,389 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-08 14:16:21,389 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:16:21,389 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:21:11,968 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:21:11,984 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-08 14:21:11,985 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:21:11,985 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:21:12,972 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-08 14:21:13,016 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:21:13,016 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-08 14:21:13,016 INFO  InventariosMovil - =======================================================================================
+2026-04-08 14:21:13,016 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 25 | FolioRI: RI-003
+2026-04-08 14:21:32,349 INFO  InventariosMovil - [OK] Se obtuvieron 2 registros para procesar | FolioRI: RI-003
+2026-04-08 14:21:40,184 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 25
+2026-04-08 14:21:56,263 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 1 | Grupos de líneas nuevas: 0
+2026-04-08 14:21:56,265 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: F4X51 LMF ZHUHAI | Warehouse: 02 | LineNumber: 2 | Cantidad: 49700
+2026-04-08 14:21:56,265 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 25 | Total líneas: 1 (Existentes: 1, Nuevas: 0)
+2026-04-08 14:21:56,762 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 25
+2026-04-08 14:21:56,850 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-003
+2026-04-08 14:21:56,942 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-08 14:21:56,942 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 25

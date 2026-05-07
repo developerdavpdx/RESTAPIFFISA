@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "AutorizarSolicitudHHOC";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/Autorizacion.css" rel="stylesheet" />
+<header style="background-color: #333333" id="header" class="ps-2 pe-2 header d-flex justify-content-between align-items-center">
+    <img width="200" src="~/assets/img/logoFisfiber.png" alt="Hero Image" class="img-fluid">
+</header>
+
+<main class="main d-flex justify-content-center align-items-center" style="height:67vh">
+    <!-- About Section -->
+    <section id="about" class="about section pt-2 pb-0">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+            <div class="row gy-4 align-items-center justify-content-between">
+                <div class="col-md-12 text-center" data-aos="fade-up" data-aos-delay="200">
+                    <h4> @ViewBag.Mensaje @Html.Raw(ViewBag.IconResult)</h4>
+                </div>
+            </div>
+        </div>
+    </section><!-- /About Section -->
+</main>
+
+

@@ -1,0 +1,154 @@
+﻿<header id="header" class="ps-2 pe-2 header d-flex justify-content-between align-items-center">
+    <img width="200" src="~/assets/img/logoFisfiber.png" alt="Hero Image" class="img-fluid">
+    <h3 class="">Fis Fiber Industries 1.87</h3>
+</header>
+
+<main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="hero-content text-center" data-aos="fade-up" data-aos-delay="200">
+                        <h4 class="mb-4 company-badge">
+                            <span class="accent-text">Realiza operaciones de Hand Held en tiempo real.</span>
+                        </h4>
+
+                        <h4 class="text-thin">
+                            <i class="fa fa-lightbulb-o fa-lg fa-fw text-warning"></i> Consejos útiles
+                        </h4>
+
+                        <p class="text-muted mar-top">A continuación podrás encontrar información de utilidad para generar solicitudes de información.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section><!-- /Hero Section -->
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-4 align-items-center justify-content-between">
+
+                <div class="col-xl-12" data-aos="fade-up" data-aos-delay="200">
+                    <ul class="feature-list">
+                        <li>
+                            <i class="bi bi-check-circle-fill"></i> <h4>¿Como puedo enviar una petición post?</h4>
+                        </li>
+                    </ul>
+                    <span>
+                        Para realizar una petición <strong>POST</strong> la estructura de datos debe ser en formato XML, ejemplo:
+                    </span>
+<pre>
+<code>
+&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;Credenciales&gt;
+    &lt;Usuario&gt;planfis.fisfiber@gmail.com&lt;/Usuario&gt;
+    &lt;Password&gt;FFisa#2025&lt;/Password&gt;
+&lt;/Credenciales&gt;
+</code>
+</pre>
+                    <br />
+                    <br />
+                    <strong>Respuesta: contenido XML ejemplo: </strong>
+<pre>                               
+                    <code>
+&lt;?xml version="1.0" encoding="utf-16" ?&gt;
+&lt;JsonResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+    &lt;Status&gt;OK&lt;/Status&gt;
+    &lt;Message&gt;Credenciales validadas correctamente.&lt;/Message&gt;
+    &lt;Data&gt;
+        &amp;lt;Item&amp;gt;
+            &amp;lt;existe&amp;gt;1&amp;lt;/existe&amp;gt;
+            &amp;lt;email&amp;gt;rbotello@cclind.com&amp;lt;/email&amp;gt;
+            &amp;lt;empleado&amp;gt;Rafael Botello&amp;lt;/empleado&amp;gt;
+            &amp;lt;u_perfil&amp;gt;Compras&amp;lt;/u_perfil&amp;gt;
+        &amp;lt;/Item&amp;gt;
+    &lt;/Data&gt;
+&lt;/JsonResponse&gt;
+    </code>
+</pre>
+                    <div class="pad-all bord-no pad-top pt-4">
+                        <!-- Question -->
+                        <div class="text-semibold pad-hor text-lg">
+                            <h4 style="color:#088ccc" class="text-thin">
+                                <i class="fa fa-lightbulb-o fa-lg fa-fw text-warning"></i> Códigos de estado de respuesta HTTP
+                            </h4>
+                        </div>
+                        <div class="text-semibold pad-hor text-lg pt-2">
+                            <div><p class="http200">200 OK</p></div>
+                            <div>
+                                <span>Contenido generado correctamente.</span>
+                            </div>
+                        </div>
+
+                        <!-- Answer -->
+                        <div class="collapse in">
+                            <div style="padding-top:10px">
+
+
+                                <pre>                                    <code>
+{
+"estatus": "OK",
+"mensaje": "Contenido generado correctamente"
+}
+                                        </code>
+                                    </pre>
+                            </div>
+                        </div>
+
+                        <div class="text-semibold pad-hor text-lg pt-5">
+                            <div><p class="http400">400 BAD REQUEST</p></div>
+                            <div>
+                                <span>El servidor no procesará la solicitud, porque no puede, o no debe, debido a algo que es percibido como un error del cliente (ej: solicitud malformada, sintaxis errónea, etc).</span>
+                            </div>
+                        </div>
+
+                        <!-- Answer -->
+                        <div class="collapse in">
+                            <div style="padding-top:10px">
+
+
+                                <pre>                                    <code>
+{
+"estatus": "ERROR",
+"mensaje": "El contenido es erróneo"
+}
+                                        </code>
+                                    </pre>
+                            </div>
+                        </div>
+                        <div class="text-semibold pad-hor text-lg pt-5">
+                            <div><p class="http500">500 INTERNAL SERVER ERROR</p></div>
+                            <div>
+                                <span>Situaciones de error ajenas a la naturaleza del servidor web.</span>
+                            </div>
+                        </div>
+
+                        <!-- Answer -->
+                        <div class="collapse in">
+                            <div style="padding-top:10px">
+
+
+                                <pre>                                    <code>
+{
+"estatus": "ERROR",
+"mensaje": "Ocurrio un error al procesar la solicitud"
+}
+                                        </code>
+                                    </pre>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section><!-- /About Section -->
+</main>

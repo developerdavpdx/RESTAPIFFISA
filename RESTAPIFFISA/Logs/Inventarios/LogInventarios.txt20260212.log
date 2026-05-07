@@ -1,0 +1,203 @@
+﻿2026-02-12 13:48:54,502 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:48:54,514 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-02-12 13:48:54,515 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:48:54,515 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar nuevo documento base para recuento de inventarios.
+2026-02-12 13:48:54,572 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: [{"Folio":"RI-008"}]
+2026-02-12 13:49:37,884 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:49:37,884 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:49:37,884 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:49:37,884 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-008
+2026-02-12 13:49:37,939 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-008
+2026-02-12 13:50:09,677 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:50:09,677 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:50:09,677 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:50:09,677 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-008
+2026-02-12 13:50:09,736 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-008
+2026-02-12 13:50:25,566 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:50:25,566 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:50:25,566 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:50:25,566 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-008
+2026-02-12 13:50:25,624 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-008
+2026-02-12 13:52:04,236 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:52:04,236 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:52:04,236 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:52:04,236 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-008
+2026-02-12 13:52:04,292 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-008
+2026-02-12 13:53:52,364 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:53:52,364 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:53:52,364 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:53:52,364 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-008
+2026-02-12 13:53:52,422 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-008
+2026-02-12 13:59:04,318 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:04,318 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-02-12 13:59:04,318 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:04,318 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar nuevo documento base para recuento de inventarios.
+2026-02-12 13:59:04,378 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: [{"Folio":"RI-009"}]
+2026-02-12 13:59:20,153 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:20,153 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:59:20,153 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:20,153 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 13:59:20,211 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 13:59:36,349 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:36,349 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 13:59:36,349 INFO  InventariosMovil - =======================================================================================
+2026-02-12 13:59:36,349 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 13:59:36,414 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:00:29,682 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:29,682 INFO  InventariosMovil - =====================ELIMINAR DOCUMENTO RECUENTOS=====================================
+2026-02-12 14:00:29,682 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:29,682 INFO  InventariosMovil - [OK] El usuario:  intenta eliminar documento de recuento | Folio: RI-009
+2026-02-12 14:00:29,770 INFO  InventariosMovil - [OK] Documento de recuento eliminado correctamente | Usuario:  | Folio: RI-009
+2026-02-12 14:00:44,388 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:44,388 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-02-12 14:00:44,388 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:44,388 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-008
+2026-02-12 14:00:45,277 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-02-12 14:00:45,304 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:45,304 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-02-12 14:00:45,304 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:00:45,304 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25 | FolioRI: RI-008
+2026-02-12 14:00:45,379 INFO  InventariosMovil - [OK] Se obtuvieron 5 registros para procesar | FolioRI: RI-008
+2026-02-12 14:00:45,611 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 25
+2026-02-12 14:00:45,631 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 1 | Grupos de líneas nuevas: 4
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: MOLIDO FB | Warehouse: 26 | LineNumber: 1 | Cantidad: 31.02
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: F4X51 LMF ZHUHAI | Warehouse: 02
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: POLI 100X120 BEB | Warehouse: 13
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: FIB COR POL | Warehouse: 02
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: BOL 55X98X200 COP | Warehouse: 12
+2026-02-12 14:00:45,633 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 25 | Total líneas: 5 (Existentes: 1, Nuevas: 4)
+2026-02-12 14:00:45,884 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 25
+2026-02-12 14:00:45,884 INFO  InventariosMovil - [OK] Iniciando segundo PATCH para actualizar artículos nuevos con lotes | Cantidad: 4
+2026-02-12 14:00:45,956 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: F4X51 LMF ZHUHAI | LineNumber: 2 | Cantidad: 24850 | Lotes: 1
+2026-02-12 14:00:45,956 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: POLI 100X120 BEB | LineNumber: 3 | Cantidad: 50.5 | Lotes: 1
+2026-02-12 14:00:45,956 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: FIB COR POL | LineNumber: 4 | Cantidad: 22101 | Lotes: 1
+2026-02-12 14:00:45,956 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: BOL 55X98X200 COP | LineNumber: 5 | Cantidad: 500 | Lotes: 1
+2026-02-12 14:00:46,153 INFO  InventariosMovil - [OK] Segundo PATCH exitoso - Artículos nuevos actualizados con lotes | DocEntry: 25
+2026-02-12 14:00:46,212 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-008
+2026-02-12 14:00:46,295 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-02-12 14:00:46,295 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25
+2026-02-12 14:02:41,706 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:02:41,706 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-02-12 14:02:41,706 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:02:41,706 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar nuevo documento base para recuento de inventarios.
+2026-02-12 14:02:41,769 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: [{"Folio":"RI-009"}]
+2026-02-12 14:02:58,002 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:02:58,002 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:02:58,002 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:02:58,002 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:02:58,060 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:03:07,815 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:07,815 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:03:07,815 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:07,815 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:03:07,872 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:03:23,485 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:23,485 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:03:23,485 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:23,485 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:03:23,546 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:03:33,854 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:33,854 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:03:33,854 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:33,854 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:03:33,912 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:03:42,509 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:42,509 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:03:42,509 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:42,509 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:03:42,568 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:03:53,384 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:53,384 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:03:53,384 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:03:53,384 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:03:53,447 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:04:04,308 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:04,308 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:04:04,308 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:04,308 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:04:04,370 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:04:18,877 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:18,877 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:04:18,877 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:18,877 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:04:18,945 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:04:28,561 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:28,561 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:04:28,561 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:28,561 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:04:28,618 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:04:53,299 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:53,299 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:04:53,299 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:04:53,299 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:04:53,361 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:05:03,769 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:03,769 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:05:03,769 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:03,769 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:05:03,854 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:05:14,601 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:14,601 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:05:14,601 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:14,601 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:05:14,662 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:05:39,054 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:39,054 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:05:39,054 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:39,054 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:05:39,139 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:05:48,948 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:48,948 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:05:48,948 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:48,948 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:05:49,006 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:05:58,141 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:58,141 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:05:58,141 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:05:58,141 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:05:58,201 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:06:07,752 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:07,752 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:06:07,752 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:07,752 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:06:07,813 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:06:16,940 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:16,940 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:06:16,940 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:16,940 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:06:17,000 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:06:26,363 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:26,363 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-02-12 14:06:26,363 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:06:26,363 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-009
+2026-02-12 14:06:26,425 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-009
+2026-02-12 14:07:20,818 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:07:20,818 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-02-12 14:07:20,818 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:07:20,818 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-009
+2026-02-12 14:07:21,743 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-02-12 14:07:21,743 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:07:21,743 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-02-12 14:07:21,743 INFO  InventariosMovil - =======================================================================================
+2026-02-12 14:07:21,743 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25 | FolioRI: RI-009
+2026-02-12 14:07:21,807 INFO  InventariosMovil - [OK] Se obtuvieron 18 registros para procesar | FolioRI: RI-009
+2026-02-12 14:07:22,038 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 25
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 1 | Grupos de líneas nuevas: 5
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: MOLIDO FB | Warehouse: 26 | LineNumber: 1 | Cantidad: 89.9
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: F4X51 LMF ZHUHAI | Warehouse: 02
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: FIB COR POL | Warehouse: 02
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: BOL 55X98X200 COP | Warehouse: 12
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: POLI 100X120 BEB | Warehouse: 13
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: POLI 100X120 BEB | Warehouse: 24
+2026-02-12 14:07:22,039 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 25 | Total líneas: 6 (Existentes: 1, Nuevas: 5)
+2026-02-12 14:07:22,281 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 25
+2026-02-12 14:07:22,281 INFO  InventariosMovil - [OK] Iniciando segundo PATCH para actualizar artículos nuevos con lotes | Cantidad: 5
+2026-02-12 14:07:22,346 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: F4X51 LMF ZHUHAI | LineNumber: 2 | Cantidad: 75600 | Lotes: 6
+2026-02-12 14:07:22,346 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: FIB COR POL | LineNumber: 3 | Cantidad: 65647 | Lotes: 3
+2026-02-12 14:07:22,346 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: BOL 55X98X200 COP | LineNumber: 4 | Cantidad: 1500 | Lotes: 3
+2026-02-12 14:07:22,346 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: POLI 100X120 BEB | LineNumber: 5 | Cantidad: 50.5 | Lotes: 1
+2026-02-12 14:07:22,346 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: POLI 100X120 BEB | LineNumber: 6 | Cantidad: 96.85 | Lotes: 2
+2026-02-12 14:07:22,467 INFO  InventariosMovil - [OK] Segundo PATCH exitoso - Artículos nuevos actualizados con lotes | DocEntry: 25
+2026-02-12 14:07:22,533 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-009
+2026-02-12 14:07:23,629 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-02-12 14:07:23,629 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25

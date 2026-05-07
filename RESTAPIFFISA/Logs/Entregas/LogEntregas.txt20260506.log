@@ -1,0 +1,60 @@
+﻿2026-05-06 18:12:54,128 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:12:54,139 INFO  VentasMovil - =======================ENCABEZADO DOCUMENTO ENTREGAS===================================
+2026-05-06 18:12:54,139 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:12:54,139 INFO  VentasMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento de entregas de mercancía para la OV: 1000002539
+2026-05-06 18:12:54,234 INFO  VentasMovil - [OK] Folio EM generado exitosamente | Usuario: GILBERTO CABRERA/GCR | OrdenVenta: 211738 | SapDocument: 1000002539 | Cliente: C06624 | Comentarios: TEST | Folio: [{"Folio":"1000002539-001"}]
+2026-05-06 18:12:54,279 INFO  VentasMovil - [OK] La OV: 1000002539 cumple con todas las consideraciones, no requiere notificación
+2026-05-06 18:12:54,279 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Usuario: GILBERTO CABRERA/GCR | OV: 1000002539
+2026-05-06 18:17:29,499 INFO  VentasMovil - ===================================================================================
+2026-05-06 18:17:29,499 INFO  VentasMovil - =======================LINEAS DOCUMENTO ENTREGAS===================================
+2026-05-06 18:17:29,499 INFO  VentasMovil - ===================================================================================
+2026-05-06 18:17:29,499 INFO  VentasMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta ingresar un nuevo rollo para el folio de entregas: 1000002539-001 | Articulo: ALMOHADA | Linea: 0 | Almacen: 19 | Lote: S10120A_7252 | Cantidad: 25
+2026-05-06 18:17:29,560 INFO  VentasMovil - [OK] Línea insertada exitosamente | Folio: 1000002539-001 | Articulo: ALMOHADA | Linea: 0 | Almacen: 19 | UMV: pza | UMI: PZA | UMS: Pzas | Lote: S10120A_7252 | Cantidad: 25 | CantidadConversion: 25 | Referencia: NO | CantidadReferencia: 
+2026-05-06 18:17:34,514 INFO  VentasMovil - [INFO] Obteniendo total de rollos para el folio: 1000002539-001
+2026-05-06 18:18:06,883 INFO  VentasMovil - [INFO] Notificando a WEB sobre actualización de rollos | OrdenVenta: 211738 | TotalRollos: 1
+2026-05-06 18:18:42,588 ERROR VentasMovil - [ERROR] Error al notificar a WEB sobre actualización de rollos | Folio: 1000002539-001 | Error: Se canceló una tarea.
+2026-05-06 18:18:42,669 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Folio: 1000002539-001
+2026-05-06 18:25:05,360 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:25:05,360 INFO  VentasMovil - ==================ELIMINAR DOCUMENTO ENTREGAS================================
+2026-05-06 18:25:05,360 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:25:05,429 INFO  VentasMovil - [INFO] El usuario GILBERTO CABRERA/GCR intenta elimininar el documento con los siguientes datos | Folio: 1000002539-001
+2026-05-06 18:25:05,429 INFO  VentasMovil - [INFO] Preparando parámetros para eliminación | Folio: 1000002539-001
+2026-05-06 18:25:05,429 INFO  VentasMovil - [INFO] Ejecutando procedimiento de eliminación | Procedimiento: EXEC SpPdxFF_EliminaDocumentosVentasHHEMOV @Folio | Folio: 1000002539-001
+2026-05-06 18:25:05,576 INFO  VentasMovil - [OK] Documento eliminado correctamente | Folio: 1000002539-001
+2026-05-06 18:25:05,576 INFO  VentasMovil - [OK] Resultado deserializado correctamente | Registros: 1
+2026-05-06 18:25:05,576 INFO  VentasMovil - [INFO] Serializando respuesta a XML | Status: OK | Folio: 1000002539-001
+2026-05-06 18:25:05,576 INFO  VentasMovil - [OK] Respuesta XML generada exitosamente | Folio: 1000002539-001 | Status: OK
+2026-05-06 18:26:34,435 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:26:34,455 INFO  VentasMovil - =======================ENCABEZADO DOCUMENTO ENTREGAS===================================
+2026-05-06 18:26:34,455 INFO  VentasMovil - =======================================================================================
+2026-05-06 18:26:34,455 INFO  VentasMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento de entregas de mercancía para la OV: 193339
+2026-05-06 18:26:34,550 INFO  VentasMovil - [OK] Folio EM generado exitosamente | Usuario: GILBERTO CABRERA/GCR | OrdenVenta: 207527 | SapDocument: 193339 | Cliente: C06624 | Comentarios: TEST CARGA | Folio: [{"Folio":"193339-001"}]
+2026-05-06 18:26:34,593 INFO  VentasMovil - [OK] La OV: 193339 cumple con todas las consideraciones, no requiere notificación
+2026-05-06 18:26:34,593 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Usuario: GILBERTO CABRERA/GCR | OV: 193339
+2026-05-06 18:58:38,114 INFO  VentasMovil - ===================================================================================
+2026-05-06 18:58:38,114 INFO  VentasMovil - =======================LINEAS DOCUMENTO ENTREGAS===================================
+2026-05-06 18:58:38,115 INFO  VentasMovil - ===================================================================================
+2026-05-06 18:58:38,115 INFO  VentasMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta ingresar un nuevo rollo para el folio de entregas: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | Lote: S10226VL10POL_0826 | Cantidad: 17.5
+2026-05-06 18:58:38,167 INFO  VentasMovil - [OK] Línea insertada exitosamente | Folio: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | UMV: Mts | UMI: KG | UMS: Metros | Lote: S10226VL10POL_0826 | Cantidad: 17.5 | CantidadConversion: 60 | Referencia: NO | CantidadReferencia: 
+2026-05-06 18:58:41,607 INFO  VentasMovil - [INFO] Obteniendo total de rollos para el folio: 193339-001
+2026-05-06 18:58:46,440 INFO  VentasMovil - [INFO] Notificando a WEB sobre actualización de rollos | OrdenVenta: 207527 | TotalRollos: 1
+2026-05-06 18:59:28,051 ERROR VentasMovil - [ERROR] Error al notificar a WEB sobre actualización de rollos | Folio: 193339-001 | Error: Se canceló una tarea.
+2026-05-06 18:59:28,145 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Folio: 193339-001
+2026-05-06 19:02:13,606 INFO  VentasMovil - ===================================================================================
+2026-05-06 19:02:13,606 INFO  VentasMovil - =======================LINEAS DOCUMENTO ENTREGAS===================================
+2026-05-06 19:02:13,606 INFO  VentasMovil - ===================================================================================
+2026-05-06 19:02:13,606 INFO  VentasMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta ingresar un nuevo rollo para el folio de entregas: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | Lote: S10226VL10POL_0827 | Cantidad: 17.5
+2026-05-06 19:02:13,666 INFO  VentasMovil - [OK] Línea insertada exitosamente | Folio: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | UMV: Mts | UMI: KG | UMS: Metros | Lote: S10226VL10POL_0827 | Cantidad: 17.5 | CantidadConversion: 60 | Referencia: NO | CantidadReferencia: 
+2026-05-06 19:02:21,254 INFO  VentasMovil - [INFO] Obteniendo total de rollos para el folio: 193339-001
+2026-05-06 19:05:01,095 INFO  VentasMovil - [INFO] Notificando a WEB sobre actualización de rollos | OrdenVenta: 207527 | TotalRollos: 2
+2026-05-06 19:05:02,429 INFO  VentasMovil - [OK] Notificación enviada exitosamente a WEB | OrdenVenta: 207527 | StatusCode: OK | Respuesta: {"Status":"ERROR","Message":"Error: El pedido (null) no existe en la tabla.","Data":null,"Data2":null,"Data3":null,"ExtraData":null,"Other":null}
+2026-05-06 19:05:02,430 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Folio: 193339-001
+2026-05-06 20:02:11,797 INFO  VentasMovil - ===================================================================================
+2026-05-06 20:02:11,797 INFO  VentasMovil - =======================LINEAS DOCUMENTO ENTREGAS===================================
+2026-05-06 20:02:11,797 INFO  VentasMovil - ===================================================================================
+2026-05-06 20:02:11,797 INFO  VentasMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta ingresar un nuevo rollo para el folio de entregas: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | Lote: S50126VL6POL_1391 | Cantidad: 16.76
+2026-05-06 20:02:11,853 INFO  VentasMovil - [OK] Línea insertada exitosamente | Folio: 193339-001 | Articulo: SS110/230 SC L11 | Linea: 0 | Almacen: 37 | UMV: Mts | UMI: KG | UMS: Metros | Lote: S50126VL6POL_1391 | Cantidad: 16.76 | CantidadConversion: 60 | Referencia: NO | CantidadReferencia: 
+2026-05-06 20:02:15,939 INFO  VentasMovil - [INFO] Obteniendo total de rollos para el folio: 193339-001
+2026-05-06 20:02:17,304 INFO  VentasMovil - [INFO] Notificando a WEB sobre actualización de rollos | OrdenVenta: 207527 | TotalRollos: 3
+2026-05-06 20:02:43,810 ERROR VentasMovil - [ERROR] Error al notificar a WEB sobre actualización de rollos | Folio: 193339-001 | Error: Se canceló una tarea.
+2026-05-06 20:02:45,517 INFO  VentasMovil - [OK] Respuesta generada exitosamente | Status: SI | Folio: 193339-001

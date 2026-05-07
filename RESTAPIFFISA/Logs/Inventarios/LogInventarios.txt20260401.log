@@ -1,0 +1,206 @@
+﻿2026-04-01 10:46:10,913 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:46:10,925 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 10:46:10,925 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:46:10,925 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 10:46:13,976 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 10:46:15,922 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:46:16,142 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 10:46:16,249 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:46:16,436 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 10:46:35,745 INFO  InventariosMovil - [OK] Se obtuvieron 144 registros para procesar | FolioRI: RI-016
+2026-04-01 10:46:57,417 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 28
+2026-04-01 10:47:31,642 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 6 | Grupos de líneas nuevas: 2
+2026-04-01 10:50:45,003 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:50:45,013 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 10:50:45,013 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:50:45,013 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 10:50:48,233 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 10:50:49,766 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:50:49,926 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 10:50:50,068 INFO  InventariosMovil - =======================================================================================
+2026-04-01 10:50:54,007 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 10:50:54,369 INFO  InventariosMovil - [OK] Se obtuvieron 144 registros para procesar | FolioRI: RI-016
+2026-04-01 10:50:55,144 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 28
+2026-04-01 10:50:56,961 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 6 | Grupos de líneas nuevas: 2
+2026-04-01 11:00:56,660 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:00:56,671 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 11:00:56,671 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:00:56,671 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 11:01:03,545 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 11:01:03,569 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:01:03,569 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 11:01:03,569 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:01:03,569 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 11:01:03,935 INFO  InventariosMovil - [OK] Se obtuvieron 144 registros para procesar | FolioRI: RI-016
+2026-04-01 11:01:04,593 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 28
+2026-04-01 11:01:04,621 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 6 | Grupos de líneas nuevas: 2
+2026-04-01 11:04:44,729 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U55/150 120 L10 | Warehouse: 18 | LineNumber: 17 | Cantidad: 855.19
+2026-04-01 11:05:21,000 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U280/145 L6 | Warehouse: 21 | LineNumber: 29 | Cantidad: 36.75
+2026-04-01 11:05:39,968 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U200/145 L6 | Warehouse: 21 | LineNumber: 27 | Cantidad: 79.99
+2026-04-01 11:05:39,969 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SS110/230 SC L11 | Warehouse: 37 | LineNumber: 44 | Cantidad: 285.91
+2026-04-01 11:05:39,969 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU300/145 L6 | Warehouse: 44 | LineNumber: 82 | Cantidad: 92.6
+2026-04-01 11:05:39,969 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU190/145 30 V L6 | Warehouse: 44 | LineNumber: 78 | Cantidad: 16.62
+2026-04-01 11:06:35,288 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:06:35,299 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 11:06:35,299 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:06:35,299 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 11:06:36,300 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 11:06:36,326 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:06:36,326 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 11:06:36,326 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:06:36,326 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 28 | FolioRI: RI-016
+2026-04-01 11:06:36,695 INFO  InventariosMovil - [OK] Se obtuvieron 144 registros para procesar | FolioRI: RI-016
+2026-04-01 11:06:37,258 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 28
+2026-04-01 11:06:37,282 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 6 | Grupos de líneas nuevas: 2
+2026-04-01 11:06:37,284 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U55/150 120 L10 | Warehouse: 18 | LineNumber: 17 | Cantidad: 855.19
+2026-04-01 11:06:37,284 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U280/145 L6 | Warehouse: 21 | LineNumber: 29 | Cantidad: 36.75
+2026-04-01 11:06:37,284 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U200/145 L6 | Warehouse: 21 | LineNumber: 27 | Cantidad: 79.99
+2026-04-01 11:06:37,285 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SS110/230 SC L11 | Warehouse: 37 | LineNumber: 44 | Cantidad: 285.91
+2026-04-01 11:06:37,285 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU300/145 L6 | Warehouse: 44 | LineNumber: 82 | Cantidad: 92.6
+2026-04-01 11:06:37,285 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU190/145 30 V L6 | Warehouse: 44 | LineNumber: 78 | Cantidad: 16.62
+2026-04-01 11:06:43,059 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: U60/150 L11 | Warehouse: 17
+2026-04-01 11:06:49,361 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: 90/145 L11 | Warehouse: 17
+2026-04-01 11:06:57,688 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 28 | Total líneas: 8 (Existentes: 6, Nuevas: 2)
+2026-04-01 11:20:15,703 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:20:15,714 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 11:20:15,714 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:20:15,714 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar recuento de inventario | DocEntry: 31 | FolioRI: RI-016
+2026-04-01 11:20:17,740 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 11:20:18,804 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:20:18,804 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 11:20:18,804 INFO  InventariosMovil - =======================================================================================
+2026-04-01 11:20:18,804 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 31 | FolioRI: RI-016
+2026-04-01 11:20:19,369 INFO  InventariosMovil - [OK] Se obtuvieron 1774 registros para procesar | FolioRI: RI-016
+2026-04-01 11:20:20,074 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 31
+2026-04-01 11:20:20,100 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 34 | Grupos de líneas nuevas: 2
+2026-04-01 11:20:20,103 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U250/205 L11 | Warehouse: 37 | LineNumber: 6 | Cantidad: 1370.33
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U270/200 L10 | Warehouse: 18 | LineNumber: 1 | Cantidad: 6848.5
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: 40/150 L11 | Warehouse: 18 | LineNumber: 21 | Cantidad: 119.24
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U85/210 L10 | Warehouse: 18 | LineNumber: 30 | Cantidad: 535.06
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U125/205 L11 | Warehouse: 37 | LineNumber: 56 | Cantidad: 217.85
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: N20/143 N L11 | Warehouse: 37 | LineNumber: 12 | Cantidad: 415.808
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U250/205 30 L11 | Warehouse: 37 | LineNumber: 7 | Cantidad: 1112.12
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U160/140 L11 | Warehouse: 28 | LineNumber: 8 | Cantidad: 1045.92
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SS110/230 SC L11 | Warehouse: 37 | LineNumber: 9 | Cantidad: 407.39
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U80/210 100 L10 | Warehouse: 18 | LineNumber: 2 | Cantidad: 4006.12
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU70/240 L10 | Warehouse: 44 | LineNumber: 87 | Cantidad: 804.59
+2026-04-01 11:20:20,104 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU90/200 L6 | Warehouse: 21 | LineNumber: 32 | Cantidad: 385.96
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U200/205 SC L10 | Warehouse: 18 | LineNumber: 4 | Cantidad: 1562.88
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U125/200 L10 | Warehouse: 18 | LineNumber: 3 | Cantidad: 1919.42
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SS250/246 L10 | Warehouse: 18 | LineNumber: 24 | Cantidad: 283.73
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU140/145 L6 | Warehouse: 44 | LineNumber: 75 | Cantidad: 407.02
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SS250/237 L10 | Warehouse: 18 | LineNumber: 23 | Cantidad: 499.62
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SU250/205 L11 | Warehouse: 37 | LineNumber: 5 | Cantidad: 1675.53
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U150/150 L6 | Warehouse: 21 | LineNumber: 11 | Cantidad: 248.94
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU100/220 L11 | Warehouse: 44 | LineNumber: 10 | Cantidad: 455.86
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U150/110 L11 | Warehouse: 23 | LineNumber: 41 | Cantidad: 57.7
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU120/230 L6 | Warehouse: 44 | LineNumber: 72 | Cantidad: 408.22
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U220/150 L10 | Warehouse: 23 | LineNumber: 13 | Cantidad: 122.97
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U55/150 120 L10 | Warehouse: 18 | LineNumber: 27 | Cantidad: 855.19
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U280/145 L6 | Warehouse: 21 | LineNumber: 37 | Cantidad: 36.75
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU110/180 L6 | Warehouse: 44 | LineNumber: 68 | Cantidad: 144.39
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U110/210 35 L10 | Warehouse: 18 | LineNumber: 14 | Cantidad: 108.32
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U80/210 35 L10 | Warehouse: 18 | LineNumber: 28 | Cantidad: 35.01
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U200/145 L6 | Warehouse: 21 | LineNumber: 35 | Cantidad: 79.99
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU300/145 L6 | Warehouse: 44 | LineNumber: 82 | Cantidad: 92.6
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: ASU190/145 30 V L6 | Warehouse: 44 | LineNumber: 78 | Cantidad: 16.62
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: FD150/158 L11 | Warehouse: 28 | LineNumber: 43 | Cantidad: 58.73
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: U200/145 C1 L11 | Warehouse: 37 | LineNumber: 60 | Cantidad: 11.93
+2026-04-01 11:20:20,105 INFO  InventariosMovil - [OK] Línea EXISTENTE procesada | ItemCode: SSU150/150 L11 | Warehouse: 37 | LineNumber: 52 | Cantidad: 11.64
+2026-04-01 11:20:27,562 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: U60/150 L11 | Warehouse: 17
+2026-04-01 11:20:27,563 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: 90/145 L11 | Warehouse: 17
+2026-04-01 11:20:39,913 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 31 | Total líneas: 36 (Existentes: 34, Nuevas: 2)
+2026-04-01 11:21:07,006 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 31
+2026-04-01 11:21:09,532 INFO  InventariosMovil - [OK] Iniciando segundo PATCH para actualizar artículos nuevos con lotes | Cantidad: 2
+2026-04-01 11:21:24,805 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: U60/150 L11 | LineNumber: 90 | Cantidad: 9.21 | Lotes: 1
+2026-04-01 11:21:24,805 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: 90/145 L11 | LineNumber: 91 | Cantidad: 8.24 | Lotes: 1
+2026-04-01 11:21:33,205 INFO  InventariosMovil - [OK] Segundo PATCH exitoso - Artículos nuevos actualizados con lotes | DocEntry: 31
+2026-04-01 11:21:35,528 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-016
+2026-04-01 11:21:38,543 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: GILBERTO CABRERA/GCR
+2026-04-01 11:21:38,543 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: GILBERTO CABRERA/GCR | DocEntry: 31
+2026-04-01 15:48:31,303 INFO  InventariosMovil - =======================================================================================
+2026-04-01 15:48:31,315 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-04-01 15:48:31,315 INFO  InventariosMovil - =======================================================================================
+2026-04-01 15:48:31,315 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento base para recuento de inventarios.
+2026-04-01 15:48:31,368 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: GILBERTO CABRERA/GCR | Folio: [{"Folio":"RI-010"}]
+2026-04-01 16:10:17,981 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:10:17,992 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:10:17,992 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:10:17,992 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-010
+2026-04-01 16:10:18,050 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-010
+2026-04-01 16:11:41,270 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:11:41,270 INFO  InventariosMovil - =====================ELIMINAR DOCUMENTO RECUENTOS=====================================
+2026-04-01 16:11:41,270 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:11:41,270 INFO  InventariosMovil - [OK] El usuario:  intenta eliminar documento de recuento | Folio: RI-010
+2026-04-01 16:11:41,322 INFO  InventariosMovil - [OK] Documento de recuento eliminado correctamente | Usuario:  | Folio: RI-010
+2026-04-01 16:11:45,807 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:11:45,807 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-04-01 16:11:45,807 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:11:45,807 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento base para recuento de inventarios.
+2026-04-01 16:11:45,862 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: GILBERTO CABRERA/GCR | Folio: [{"Folio":"RI-001"}]
+2026-04-01 16:12:19,312 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:12:19,312 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:12:19,312 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:12:19,312 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-001
+2026-04-01 16:12:19,362 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-001
+2026-04-01 16:15:01,663 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:15:01,663 INFO  InventariosMovil - =====================ELIMINAR DOCUMENTO RECUENTOS=====================================
+2026-04-01 16:15:01,663 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:15:01,663 INFO  InventariosMovil - [OK] El usuario:  intenta eliminar documento de recuento | Folio: RI-001
+2026-04-01 16:15:01,712 INFO  InventariosMovil - [OK] Documento de recuento eliminado correctamente | Usuario:  | Folio: RI-001
+2026-04-01 16:15:48,012 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:15:48,012 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-04-01 16:15:48,012 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:15:48,012 INFO  InventariosMovil - [OK] El usuario: GILBERTO CABRERA/GCR intenta generar nuevo documento base para recuento de inventarios.
+2026-04-01 16:15:48,059 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: GILBERTO CABRERA/GCR | Folio: [{"Folio":"RI-001"}]
+2026-04-01 16:16:27,113 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:16:27,113 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:16:27,113 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:16:27,113 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-001
+2026-04-01 16:16:27,172 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-001
+2026-04-01 16:16:57,016 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:16:57,016 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:16:57,016 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:16:57,016 INFO  InventariosMovil - [OK] El usuario GILBERTO CABRERA/GCR intenta insertar líneas para el documento de recuento | Folio: RI-001
+2026-04-01 16:16:57,075 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: GILBERTO CABRERA/GCR | Folio: RI-001
+2026-04-01 16:20:27,695 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:20:27,695 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-04-01 16:20:27,695 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:20:27,695 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar nuevo documento base para recuento de inventarios.
+2026-04-01 16:20:27,744 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: [{"Folio":"RI-002"}]
+2026-04-01 16:20:40,724 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:20:40,724 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:20:40,724 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:20:40,724 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-002
+2026-04-01 16:20:40,916 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-002
+2026-04-01 16:21:47,512 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:21:47,512 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:21:47,512 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:21:47,512 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-002
+2026-04-01 16:21:47,566 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-002
+2026-04-01 16:22:01,212 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:01,212 INFO  InventariosMovil - ==========================LINEAS DOCUMENTO RECUENTOS==================================
+2026-04-01 16:22:01,212 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:01,212 INFO  InventariosMovil - [OK] El usuario SOPORTE DEVELOPMENT/DEVELOPER intenta insertar líneas para el documento de recuento | Folio: RI-002
+2026-04-01 16:22:01,261 INFO  InventariosMovil - [OK] Líneas insertadas correctamente en documento de recuento | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | Folio: RI-002
+2026-04-01 16:22:23,289 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:23,289 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-01 16:22:23,289 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:23,289 INFO  InventariosMovil - [OK] El usuario: SOPORTE DEVELOPMENT/DEVELOPER intenta generar recuento de inventario | DocEntry: 25 | FolioRI: RI-002
+2026-04-01 16:22:24,133 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-04-01 16:22:24,151 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:24,151 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-01 16:22:24,151 INFO  InventariosMovil - =======================================================================================
+2026-04-01 16:22:24,151 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25 | FolioRI: RI-002
+2026-04-01 16:22:24,516 INFO  InventariosMovil - [OK] Se obtuvieron 4 registros para procesar | FolioRI: RI-002
+2026-04-01 16:22:24,745 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 25
+2026-04-01 16:31:45,958 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 0 | Grupos de líneas nuevas: 1
+2026-04-01 16:31:45,958 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: F4X51 LMF ZHUHAI | Warehouse: 02
+2026-04-01 16:32:05,307 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 25 | Total líneas: 1 (Existentes: 0, Nuevas: 1)
+2026-04-01 16:32:15,878 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 25
+2026-04-01 16:32:20,267 INFO  InventariosMovil - [OK] Iniciando segundo PATCH para actualizar artículos nuevos con lotes | Cantidad: 1
+2026-04-01 16:33:01,232 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: F4X51 LMF ZHUHAI | LineNumber: 2 | Cantidad: 99400 | Lotes: 4
+2026-04-01 16:33:08,704 INFO  InventariosMovil - [OK] Segundo PATCH exitoso - Artículos nuevos actualizados con lotes | DocEntry: 25
+2026-04-01 16:33:14,804 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-002
+2026-04-01 16:33:16,753 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: SOPORTE DEVELOPMENT/DEVELOPER
+2026-04-01 16:33:19,824 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: SOPORTE DEVELOPMENT/DEVELOPER | DocEntry: 25

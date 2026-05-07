@@ -1,0 +1,28 @@
+﻿2026-04-29 18:34:16,897 INFO  InventariosMovil - =======================================================================================
+2026-04-29 18:34:16,917 INFO  InventariosMovil - ======================GENERAR RECUENTO INVENTARIOS====================================
+2026-04-29 18:34:16,918 INFO  InventariosMovil - =======================================================================================
+2026-04-29 18:34:16,918 INFO  InventariosMovil - [OK] El usuario: VANESSA MARTINEZ/JOCELYN intenta generar recuento de inventario | DocEntry: 34 | FolioRI: RI-024
+2026-04-29 18:34:17,861 INFO  InventariosMovil - [OK] Autenticación exitosa en SAP Service Layer | Usuario: VANESSA MARTINEZ/JOCELYN
+2026-04-29 18:34:17,881 INFO  InventariosMovil - =======================================================================================
+2026-04-29 18:34:17,881 INFO  InventariosMovil - ======================ACTUALIZAR RECUENTO INVENTARIO SAP===============================
+2026-04-29 18:34:17,881 INFO  InventariosMovil - =======================================================================================
+2026-04-29 18:34:17,881 INFO  InventariosMovil - [OK] Inicia actualización de recuento en SAP | Usuario: VANESSA MARTINEZ/JOCELYN | DocEntry: 34 | FolioRI: RI-024
+2026-04-29 18:34:32,859 INFO  InventariosMovil - [OK] Se obtuvieron 220 registros para procesar | FolioRI: RI-024
+2026-04-29 18:34:33,687 INFO  InventariosMovil - [OK] Recuento obtenido correctamente desde SAP | DocEntry: 34
+2026-04-29 18:34:33,721 INFO  InventariosMovil - [OK] Grupos de líneas existentes: 5 | Grupos de líneas nuevas: 2
+2026-04-29 18:34:33,722 WARN  InventariosMovil - [WARN] Artículo marcado como existente pero no se encontró en SAP | ItemCode: UAT85/150 NGO SF20BC LA2 | Warehouse: 28
+2026-04-29 18:34:33,722 WARN  InventariosMovil - [WARN] Artículo marcado como existente pero no se encontró en SAP | ItemCode: UAT85/150 NGO LA1 | Warehouse: 07
+2026-04-29 18:34:33,722 WARN  InventariosMovil - [WARN] Artículo marcado como existente pero no se encontró en SAP | ItemCode: AKF10/150 BCO LA3 | Warehouse: 07
+2026-04-29 18:34:33,722 WARN  InventariosMovil - [WARN] Artículo marcado como existente pero no se encontró en SAP | ItemCode: ASUA10/147 LA1 | Warehouse: 45
+2026-04-29 18:34:33,722 WARN  InventariosMovil - [WARN] Artículo marcado como existente pero no se encontró en SAP | ItemCode: UCA145/116 OX NGO CAL LA1 | Warehouse: 07
+2026-04-29 18:34:33,722 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: UA25/150 BC POL LA3 | Warehouse: 17
+2026-04-29 18:34:33,722 INFO  InventariosMovil - [OK] Línea NUEVA agregada (sin contar) | ItemCode: UA25/150 RP BC POL LA3 | Warehouse: 17
+2026-04-29 18:34:33,722 INFO  InventariosMovil - [OK] PATCH preparado correctamente | DocEntry: 34 | Total líneas: 7 (Existentes: 5, Nuevas: 2)
+2026-04-29 18:34:34,645 INFO  InventariosMovil - [OK] Recuento actualizado correctamente en SAP | DocEntry: 34
+2026-04-29 18:34:34,645 INFO  InventariosMovil - [OK] Iniciando segundo PATCH para actualizar artículos nuevos con lotes | Cantidad: 2
+2026-04-29 18:34:35,191 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: UA25/150 BC POL LA3 | LineNumber: 148 | Cantidad: 883.02 | Lotes: 23
+2026-04-29 18:34:35,191 INFO  InventariosMovil - [OK] Artículo nuevo preparado para segundo PATCH | ItemCode: UA25/150 RP BC POL LA3 | LineNumber: 149 | Cantidad: 1461.71 | Lotes: 39
+2026-04-29 18:34:36,025 INFO  InventariosMovil - [OK] Segundo PATCH exitoso - Artículos nuevos actualizados con lotes | DocEntry: 34
+2026-04-29 18:34:36,066 INFO  InventariosMovil - [OK] Documento actualizado en tabla local | FolioRI: RI-024
+2026-04-29 18:34:36,146 INFO  InventariosMovil - [OK] Sesión cerrada en SAP Service Layer | Usuario: VANESSA MARTINEZ/JOCELYN
+2026-04-29 18:34:36,146 INFO  InventariosMovil - [OK] Recuento de inventario generado exitosamente en SAP | Usuario: VANESSA MARTINEZ/JOCELYN | DocEntry: 34
