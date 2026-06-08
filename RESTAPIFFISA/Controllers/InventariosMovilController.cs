@@ -1062,6 +1062,73 @@ namespace RESTAPIFFISA.Controllers
         }
 
         [HttpGet]
+        public string GetTotalTransferenciasHHRI()
+        {
+            Dictionary<string, string> RequestParameters = new Dictionary<string, string>();
+            AccesoDatos.JsonResponse jsonResponse;
+
+            try
+            {
+                //Parametros de fecha
+                RequestParameters.Add("FolioTS", Request.Headers["FolioTS"]);
+                RequestParameters.Add("Usuario", Request.Headers["Usuario"]);
+
+                string result = Logic.GlobalCommands.ExecuteProcedure(Logic.AD.GCGetTotalTraspasosHHRI, RequestParameters);
+
+                if (result == "[]")
+                {
+                    jsonResponse = new AccesoDatos.JsonResponse()
+                    {
+
+                        Status = "NO",
+                        Message = "No se encontró información relacionada al folio especificado.",
+                        Data = new List<Dictionary<string, object>>()
+                    };
+                }
+                else if (result.Contains("Error"))
+                {
+                    jsonResponse = new AccesoDatos.JsonResponse()
+                    {
+
+                        Status = "ERROR",
+                        Message = "Error, No fue posible obtener el total del traspasos: " + result,
+                        Data = new List<Dictionary<string, object>>()
+                    };
+                }
+                else
+                {
+                    // 🔹 Convertir JSON a una lista de diccionarios (para manejar arrays)
+                    List<Dictionary<string, object>> dataList = JsonConvert.DeserializeObject<List<Dictionary<string, object>>>(result);
+
+                    jsonResponse = new AccesoDatos.JsonResponse()
+                    {
+
+                        Status = "OK",
+                        Message = "Total de traspasos obtenido correctamente.",
+                        Data = dataList
+                    };
+                }
+
+                // 🔹 Convertir el objeto `jsonResponse` en XML antes de devolverlo
+                result = Logic.GlobalCommands.SerializeToXml(jsonResponse);
+                return result;
+
+            }
+            catch (Exception ex)
+            {
+                jsonResponse = new AccesoDatos.JsonResponse()
+                {
+
+                    Status = "ERROR",
+                    Message = "Error, No fue posible obtener el total del traspasos: " + ex.ToString(),
+                    Data = new List<Dictionary<string, object>>()
+                };
+
+                return Logic.GlobalCommands.SerializeToXml(jsonResponse);
+            }
+        }
+
+        [HttpGet]
         public string GetDocumentosRecuentosHHRI()
         {
             Dictionary<string, string> RequestParameters = new Dictionary<string, string>();

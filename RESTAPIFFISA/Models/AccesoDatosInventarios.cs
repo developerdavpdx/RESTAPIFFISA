@@ -64,6 +64,7 @@ namespace RESTAPIFFISA
         public string GCValidarLoteRecuentoHHRI { get { return "EXEC SpPdxFF_ValidarLoteRecuentoHHRI @Lote,@DocNum"; } }
         public string GCInsertaLineasRecuentosHHRI { get { return "EXEC SpPdxFF_InsertaLineasRecuentosHHRI @FolioRI,@Lote,@Cantidad,@Articulo,@Almacen,@ExisteEnRecuento"; } }
         public string GCGetTotalRecuentoHHRI { get { return "EXEC SpPdxFF_GetTotalRecuentoHHRI @FolioRI,@Usuario"; } }
+        public string GCGetTotalTraspasosHHRI { get { return "EXEC SpPdxFF_GetTotalTraspasoHHRI @FolioTS,@Usuario"; } }
         public string GCGetLinesDocumentosRecuentosHHRI { get { return "EXEC SpPdxFF_GetLinesDocumentosRecuentosHHRI @Folio,@Usuario"; } }
         public string GCGetLinesDocumentosRecuentosGroupedHHRI { get { return "EXEC SpPdxFF_GetLinesDocumentosRecuentosGroupedHHRI @Folio,@Usuario"; } }
         public string GCEliminaEscaneosRecuentosHHRI { get { return "EXEC SpPdxFF_EliminaEscaneosRecuentosHHRI @ID,@Folio"; } }

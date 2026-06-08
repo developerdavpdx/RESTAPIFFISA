@@ -1,0 +1,10 @@
+﻿2026-06-03 08:02:01,768 INFO  InventariosMovil - =======================================================================================
+2026-06-03 08:02:01,783 INFO  InventariosMovil - =======================ENCABEZADO DOCUMENTO RECUENTOS==================================
+2026-06-03 08:02:01,783 INFO  InventariosMovil - =======================================================================================
+2026-06-03 08:02:01,783 INFO  InventariosMovil - [OK] El usuario: DANIEL CRUZ/DANIEL intenta generar nuevo documento base para recuento de inventarios.
+2026-06-03 08:02:01,805 INFO  InventariosMovil - [OK] Documento base de recuento generado exitosamente | Usuario: DANIEL CRUZ/DANIEL | Folio: [{"Folio":"RI-040"}]
+2026-06-03 08:02:12,679 INFO  InventariosMovil - =======================================================================================
+2026-06-03 08:02:12,679 INFO  InventariosMovil - =====================ELIMINAR DOCUMENTO RECUENTOS=====================================
+2026-06-03 08:02:12,679 INFO  InventariosMovil - =======================================================================================
+2026-06-03 08:02:12,679 INFO  InventariosMovil - [OK] El usuario:  intenta eliminar documento de recuento | Folio: RI-040
+2026-06-03 08:02:12,705 INFO  InventariosMovil - [OK] Documento de recuento eliminado correctamente | Usuario:  | Folio: RI-040

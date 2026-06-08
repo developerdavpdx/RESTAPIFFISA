@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{06BE2FF9-A43A-4745-B676-5B4592CA5FEA}|RESTAPIFFISA\\RESTAPIFFISA.csproj|c:\\users\\david reyes\\documents\\pdx\\desarrollo ffisa\\soluciones vs\\productivo\\restapiffisa 2026-05-06 di api dev\\restapiffisa\\controllers\\ventasmovilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06BE2FF9-A43A-4745-B676-5B4592CA5FEA}|RESTAPIFFISA\\RESTAPIFFISA.csproj|solutionrelative:restapiffisa\\controllers\\ventasmovilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06BE2FF9-A43A-4745-B676-5B4592CA5FEA}|RESTAPIFFISA\\RESTAPIFFISA.csproj|C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\restapiffisa\\controllers\\inventariosmovilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06BE2FF9-A43A-4745-B676-5B4592CA5FEA}|RESTAPIFFISA\\RESTAPIFFISA.csproj|solutionrelative:restapiffisa\\controllers\\inventariosmovilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,31 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VentasMovilController.cs",
-              "DocumentMoniker": "C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\RESTAPIFFISA\\Controllers\\VentasMovilController.cs",
-              "RelativeDocumentMoniker": "RESTAPIFFISA\\Controllers\\VentasMovilController.cs",
-              "ToolTip": "C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\RESTAPIFFISA\\Controllers\\VentasMovilController.cs",
-              "RelativeToolTip": "RESTAPIFFISA\\Controllers\\VentasMovilController.cs",
-              "ViewState": "AgIAAAsCAAAAAAAAAADwvzUCAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:11:09.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventariosMovilController.cs",
-              "DocumentMoniker": "C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\RESTAPIFFISA\\Controllers\\InventariosMovilController.cs",
-              "RelativeDocumentMoniker": "RESTAPIFFISA\\Controllers\\InventariosMovilController.cs",
-              "ToolTip": "C:\\Users\\David Reyes\\Documents\\PDX\\DESARROLLO FFISA\\SOLUCIONES VS\\PRODUCTIVO\\RESTAPIFFISA 2026-05-06 DI API DEV\\RESTAPIFFISA\\Controllers\\InventariosMovilController.cs",
-              "RelativeToolTip": "RESTAPIFFISA\\Controllers\\InventariosMovilController.cs",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAQwFMBAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T00:01:08.789Z"
             }
           ]
         }
