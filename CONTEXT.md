@@ -100,9 +100,11 @@ iisexpress /site:RESTAPIFFISA /config:.vs\RESTAPIFFISA\config\applicationhost.co
 | `EndPointActualizacionRollos` | **Callback a la web** (`http://localhost:44351/api/UpdateData`) |
 | `EndPointNuevaEntrega` | **Callback a la web** (`http://localhost:44351/api/NuevaEntrega`) |
 
-### Claves definidas pero **no usadas** (candidatas a limpieza)
+### Claves retiradas
 
-`SapDbServerType`, `TimeOutSapConnect`, `User`, `Pass`, `ImpresoraPruebas`.
+Se eliminaron por no leerse en ningún punto: `SapDbServerType`, `TimeOutSapConnect`,
+`User`, `Pass` e `ImpresoraPruebas` (junto con las propiedades `Logica.User` y
+`Logica.Pass`, que eran sus únicas lectoras).
 
 > `DbServerType` está **hardcodeado** como `BoDataServerTypes.dst_MSSQL2016` en
 > `Logica.cs` (2 lugares) y `LogicaVentasMovilDIAPI.cs` (1 lugar).
@@ -227,26 +229,42 @@ Los valores válidos y su significado están documentados en
    Cualquiera con acceso al puerto puede invocar los 89 endpoints y mover
    inventario/ventas en SAP.
 2. **Entrada XML obligatoria** en los POST; no hay soporte JSON.
-3. **log4net mal configurado**: el `<root>` referencia un appender
-   `RollingFileAppender` que **no está definido** (solo existen
-   `AppenderVentasMovil` y `AppenderInventariosMovil`). El log raíz no escribe.
-4. **Certificado del Service Layer sin validar** (MITM posible en producción).
-5. **`DbServerType` hardcodeado** a SQL 2016 en el código; la clave
-   `SapDbServerType` no se lee.
-6. **Faltan 3 SPs en `FISYS1`** respecto al código:
+3. **Certificado del Service Layer sin validar** (MITM posible en producción).
+4. **`DbServerType` hardcodeado** a SQL 2016 en el código.
+5. **Faltan 3 SPs en `FISYS1`** respecto al código:
    `SpPdxFF_ActualizaDocumentosHHEMD`, `SpPdxFF_GetDetailsDocumentosHHEMD`,
    `SpPdxFF_GetLotesDocumentosHHEMD`.
-7. **`FISYS1` sin datos maestros** (0 artículos, 0 socios): los flujos reales
+6. **`FISYS1` sin datos maestros** (0 artículos, 0 socios): los flujos reales
    fallarán aunque las credenciales sean correctas.
-8. El Service Layer **no** está en el puerto 30000 (ese es SLD/licencias);
+7. El Service Layer **no** está en el puerto 30000 (ese es SLD/licencias);
    el correcto es **50000**.
+
+> **log4net corregido (commit `66f6a6f`)**: el `<root>` apuntaba a un appender
+> inexistente `RollingFileAppender`. Ahora está definido y escribe en
+> `Logs\General\LogGeneral.txt` (rotación diaria, 10 MB, 15 respaldos). Los
+> loggers con nombre (`VentasMovil`, `InventariosMovil`) siguen con
+> `additivity="false"`, así que no se duplican.
 
 ---
 
-## 12. Historial reciente
+## 12. Roadmap
+
+- **Migrar la DI API a Service Layer** (`Logica.cs` para EM de compras y
+  `LogicaVentasMovilDIAPI.cs`). Hoy la referencia COM obliga a compilar en x64 y
+  a tener el cliente SAP B1 instalado en el servidor; el resto de la API ya usa
+  SL, así que unificarlo elimina esa dependencia y facilita el despliegue.
+- **Autorización real** en los endpoints (API key/token + validación de perfil).
+- **Respuestas JSON** o al menos soporte dual XML/JSON.
+- Desplegar los 3 SPs faltantes y cargar datos maestros en `FISYS1`.
+
+---
+
+## 13. Historial reciente
 
 | Commit | Cambio |
 |---|---|
+| `66f6a6f` | Corregir appender raíz de log4net y retirar 5 claves sin uso |
+| `a51658e` | Agregar `CONTEXT.md` |
 | `0d8e27b` | Ignorar `bin/` y `obj/` y dejar de rastrearlos (324 archivos) |
 | `c8e73cf` | Dejar de rastrear `.vs/` |
 | `475356b` | Credenciales a `WIN-RAFPRITOIEC` / `FISYS1` / SQL 2016 |
