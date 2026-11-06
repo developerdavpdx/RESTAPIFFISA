@@ -38,3 +38,6 @@ TestResults/
 *.log
 Thumbs.db
 desktop.ini
+
+# CodeGraph (indice local del agente)
+.codegraph/

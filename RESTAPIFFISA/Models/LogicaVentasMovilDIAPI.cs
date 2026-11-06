@@ -121,7 +121,7 @@ namespace RESTAPIFFISA
                     CompanyDB = ConfigurationManager.AppSettings["SapDatabase"],
                     UserName = ConfigurationManager.AppSettings["SapUser"],
                     Password = ConfigurationManager.AppSettings["SapPassword"],
-                    DbServerType = BoDataServerTypes.dst_MSSQL2019,
+                    DbServerType = BoDataServerTypes.dst_MSSQL2016,
                     UseTrusted = false
                 };
 

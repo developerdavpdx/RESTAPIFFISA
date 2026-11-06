@@ -80,7 +80,7 @@ namespace RESTAPIFFISA
             {
                 // Conectar a SAP Business One
                 oCompany.Server = ConfigurationManager.AppSettings["SapServer"];
-                oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2019;
+                oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2016;
                 oCompany.CompanyDB = ConfigurationManager.AppSettings["SapDatabase"];
                 oCompany.UserName = ConfigurationManager.AppSettings["SapUser"];
                 oCompany.Password = ConfigurationManager.AppSettings["SapPassword"];
@@ -192,7 +192,7 @@ namespace RESTAPIFFISA
             {
                 // Conectar a SAP Business One
                 oCompany.Server = ConfigurationManager.AppSettings["SapServer"];
-                oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2019;
+                oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2016;
                 oCompany.CompanyDB = ConfigurationManager.AppSettings["SapDatabase"];
                 oCompany.UserName = ConfigurationManager.AppSettings["SapUser"];
                 oCompany.Password = ConfigurationManager.AppSettings["SapPassword"];
