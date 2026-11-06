@@ -22,20 +22,6 @@ namespace RESTAPIFFISA
         private static readonly ILog log = LogManager.GetLogger(typeof(Logica));
 
         public string Error { get; set; }
-        public string User
-        {
-            get
-            {
-                return ConfigurationManager.AppSettings["User"]?.ToString() ?? string.Empty;
-            }
-        }
-        public string Pass
-        {
-            get
-            {
-                return ConfigurationManager.AppSettings["Pass"]?.ToString() ?? string.Empty;
-            }
-        }
         public string EmailHost
         {
             get
