@@ -1,0 +1,40 @@
+# -------------------------------
+# Resultados de compilacion (NO versionar)
+# -------------------------------
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+# -------------------------------
+# Visual Studio / IDE
+# -------------------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# -------------------------------
+# Archivos generados por el build
+# -------------------------------
+*.tlog
+*.cache
+*.FileListAbsolute.txt
+*.AssemblyReference.cache
+*.CoreCompileInputs.cache
+TestResults/
+
+# -------------------------------
+# Varios
+# -------------------------------
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
